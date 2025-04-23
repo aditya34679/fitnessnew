@@ -1,7 +1,7 @@
 const CACHE_NAME = "fitness-cache-v1";
 
 const urlsToCache = [
-  "/", "/index.html", "/style.css"
+  "/", "/index.html", "/style.css","/images/IMG1.png"
 ];
 
 self.addEventListener("install", (event) => {
