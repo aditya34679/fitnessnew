@@ -1,7 +1,10 @@
 const CACHE_NAME = "fitness-cache-v1";
 
 const urlsToCache = [
-  "/", "/index.html", "/style.css", "/images/IMG1.png", "/images/fit1.jpg",
+  "/", "/index.html",
+   "/style.css",
+    "/images/IMG1.png",
+     "/images/fit1.jpg",
   "/images/fit2.jpg",
   "/images/FIT3.jpg",
   "/images/fit4.jpg",
@@ -23,14 +26,13 @@ const urlsToCache = [
   "/chat.html",
   "/diet.html",
   "/feedback.html",
-  "/fitness center.html",
+  "/fitness-center.html",
   "/item.html",
   "/login.html",
   "/product.html",
   "/service.html",
   "/signup.html",
   "/social.html",
-  "/script.js",
   "/offline.html",
   "/faq.html"
 ];
